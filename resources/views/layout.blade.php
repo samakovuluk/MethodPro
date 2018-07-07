@@ -92,10 +92,10 @@
         </section>
         <!--End of Hedaer Section-->
 
-        <main class="py-4">
+        <section id="content">
             @yield('content')
-        </main>
-        
+        </section>
+
         <!--Start of footer-->
         <section id="footer">
             <div class="container">

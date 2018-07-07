@@ -92,7 +92,7 @@
 @section('content')
 
 <!--Form-->
-<div class="signup-form">
+<div class="signup-form" style="padding-top: 150px">
     <form method="POST" action="{{ route('register') }}" aria-label="{{ __('Register') }}">
         @csrf
         

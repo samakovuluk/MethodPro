@@ -17,5 +17,9 @@ Route::get('/', function () {
 
 Route::get('/guides', 'GuidesController@profile');
 
+Route::get('/places', function () {
+    return view('places');
+});
+
 Auth::routes();
 

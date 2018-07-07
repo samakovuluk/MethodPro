@@ -3,26 +3,11 @@
 
 <style type="text/css">
     @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-    #team {
-        background: #eee !important;
-    }
 
-    .btn-primary:hover,
-    .btn-primary:focus {
-        background-color: #1C4996;
-        border-color: #1C4996;
-        box-shadow: none;
-        outline: none;
-    }
 
-    .btn-primary {
-        color: #fff;
-        background-color: #1C4996;
-        border-color: #1C4996;
-    }
-
-    section {
-        padding: 60px 0;
+    .cont{
+        margin: 0 auto;
+        padding: 200px 0;
     }
 
     section .section-title {
@@ -138,7 +123,7 @@
 
 @section('content')
     <!-- Team -->
-    <section id="guides" class="pb-5">
+    <section id="guides" class="cont">
         <div class="container">
             <h5 class="section-title h1">OUR GUIDES</h5>
             <div class="row">

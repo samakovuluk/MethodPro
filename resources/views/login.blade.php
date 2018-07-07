@@ -79,8 +79,8 @@
 </style>
 
 @section('content')
-    <section style="margin: 50px 0px 50px 0px;">
-        <div class="container">
+    <section style="height: 700px;">
+        <div class="container" style="padding-top: 100px;">
             <!--Form-->
             <div class="signup-form">
                 <form method="POST" action="{{ route('login') }}" aria-label="{{ __('Login') }}">

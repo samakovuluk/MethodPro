@@ -283,7 +283,7 @@
             </div>
         </div>
 
-        <div class="container col-lg-12 col-12">
+        <div class="container">
             <div  class="col-lg-4 col-sm-6" id="map" style="height: 500px; width: 1140px; margin-bottom: 100px;"></div>
         </div>
     </section>
