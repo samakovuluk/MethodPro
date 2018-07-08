@@ -73,10 +73,9 @@
                             <!-- Collapse menu -->
                             <div class="collapse" id="navbarToggleExternalContent">
                                 <div class="bg-dark" style="height: 50px; margin-top: 50px">
-                                    <a href="#" style="margin: 0px 40px 0px 40px; font-size: 16px;">ACCOMMODATION</a>
-                                    <a href="#" style="margin: 0px 40px 0px 40px; font-size: 16px;">IMPRESSION</a>
-                                    <a href="#" style="margin: 0px 40px 0px 40px; font-size: 16px;">RESTAURANS</a>
+                                    <a href="{{url('/accommodations')}}" style="margin: 0px 40px 0px 40px; font-size: 16px;">ACCOMMODATION</a>
                                     <a href="#" style="margin: 0px 40px 0px 40px; font-size: 16px;">INTERTAIMENT</a>
+                                    <a href="{{url('/restaurants')}}" style="margin: 0px 40px 0px 40px; font-size: 16px;">RESTAURANTS</a>
                                 </div>
                             </div>
 

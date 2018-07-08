@@ -21,5 +21,9 @@ Route::get('/places', function () {
     return view('places');
 });
 
+Route::get('/restaurants', 'RestaurantsController@index');
+
+Route::get('/accommodations', 'AccommodationsController@index');
+
 Auth::routes();
 
