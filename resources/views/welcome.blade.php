@@ -62,7 +62,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="wel_header">
-                        <h3>What to do in almaty?</h3>
+                        <h3>What to do in Almaty?</h3>
                     </div>
                 </div>
             </div>
@@ -145,9 +145,9 @@
                         <a href="#"><img class="card-img-top" src="{{URL::asset('img/top1.jpg')}}" alt=""></a>
                         <div class="card-body text-center">
                             <h4 class="card-title" style="margin: 10px 0px 10px 0px;">
-                                <a href="#">Медеу</a>
+                                <a href="#">Medeu</a>
                             </h4>
-                            <p class="card-text">Ледовый каток Медеу, расположенный на высоте 1691,2 метра над уровнем моря, известен всему миру. Он был возведен в 1972 году. Поверхность льда занимает 10,5 тысяч кв.м., что позволяет проводить соревнования по конькобежному спорту, хоккею и фигурному катанию.</p>
+                            <p class="card-text">The Medeu is an outdoor speed skating and bandy rink. It is located in a mountain valley on the south-eastern outskirts of Almaty, Kazakhstan. Medeu sits 1,691 metres above sea level. It consists of 10.5 thousand square meters of ice and utilizes a sophisticated freezing and watering system to ensure the quality of the ice.</p>
                         </div>
                     </div>
                 </div>
@@ -157,9 +157,9 @@
                         <a href="#"><img class="card-img-top" src="{{URL::asset('img/top2.jpg')}}" alt=""></a>
                         <div class="card-body text-center" >
                             <h4 class="card-title" style="margin: 10px 0px 10px 0px;">
-                                <a href="#">Кок тобе</a>
+                                <a href="#">Kok Tobe</a>
                             </h4>
-                            <p class="card-text">Подняться на Кок-Тюбе можно как по петляющей автомобильной дороге, так и по «канатке». Канатная дорога берёт начало от сквера у Дворца Республики (пр. Достык, угол пр. Абая). Она была сооружена в 1967 году. Канатная дорога протянулась над частью старого города, застроенного частными домами, который называют «компотом» </p>
+                            <p class="card-text">Kok Tobe is a mountain in Almaty, Kazakhstan's largest city. There is a popular recreation area on top of the mountain. The mountain's height is 1100 meters above sea level. Kok Tobe is one of the main landmarks in the city, and it is popular among visitors and tourists to Almaty.  </p>
                         </div>
                     </div>
                 </div>
@@ -169,9 +169,9 @@
                         <a href="#"><img class="card-img-top" src="{{URL::asset('img/top3.jpg')}}" alt=""></a>
                         <div class="card-body text-center">
                             <h4 class="card-title" style="margin: 10px 0px 10px 0px;">
-                                <a href="#">Арбат</a>
+                                <a href="#">Arbat</a>
                             </h4>
-                            <p class="card-text">Алматинский Арбат, официально называемый улица Жибек Жолы, находится неподалёку от хостел в центре Алматы, рядом с ЦУМ-ом, и это самая популярная улица для прогулок в городе. В теплое время года тут, как и на одноименной улице российской столицы, постоянно кипит жизнь.</p>
+                            <p class="card-text">Almaty Arbat, officially called Zhibek Zholy St., is located not far from the hostel in the center of Almaty, near the Central Department Store, and it is the most popular street for walking in the city. In the warm season, here, as on the eponymous street of the Russian capital, life is constantly boiling.</p>
                         </div>
                     </div>
                 </div>
@@ -197,9 +197,9 @@
                         <a href="#"><img class="card-img-top" src="{{URL::asset('img/top4.jpg')}}" alt=""></a>
                         <div class="card-body text-center">
                             <h4 class="card-title" style="margin: 10px 0px 10px 0px;">
-                                <a href="#">Большое Алматинское озеро</a>
+                                <a href="#">Big Almaty Lake</a>
                             </h4>
-                            <p class="card-text">Озеро расположено в горах Заилийского Алатау  на высоте 2500 метров над уровнем моря и образовалось в процессе деятельности древнего ледника.  В 60х годах прошлого века на Большом Алматинском построили каскад ГЭС,  установили водозаборные сооружения, и в настоящее время таким образом снабжают Алматы водой.</p>
+                            <p class="card-text">Big Almaty Lake is located 28.5km south of Almaty up a gorge of the Bolshaya Almatinka River, 2,511m above sea level.  The lake is within the Alatau – Eliy National park and  both the Gorge and the lake are an attraction for visitors using Almaty as their base.The lake is used for both hydro electric power, and the water supply for the city, but this does not detract from the magnificent mountain scenery.</p>
                         </div>
                     </div>
                 </div>
@@ -209,9 +209,9 @@
                         <a href="#"><img class="card-img-top" src="{{URL::asset('img/top5.jpg')}}" alt=""></a>
                         <div class="card-body text-center">
                             <h4 class="card-title" style="margin: 10px 0px 10px 0px;">
-                                <a href="#">Каньон Чарын</a>
+                                <a href="#">Charyn Canyon</a>
                             </h4>
-                            <p class="card-text">Каньон Чарын расположен на территории Чарынского национального парка, созданного с целью сохранения природных и геологических объектов. Национальный парк был образован 23 февраля 2004 года. На территории парка обитает большое количество редких и исчезающих видов животных, занесенных в Красную книгу. </p>
+                            <p class="card-text">Charyn Canyon is a canyon on the Sharyn River in Kazakhstan (200 km east of Almaty, close to the Chinese border). The canyon is roughly 90 km in length. It is part of the Charyn National Park, and is located within the territory of the Uygur District, Raiymbek District and Enbekshikazakh District. Over time, the canyon has gained colorful formations of varying shapes and sizes. </p>
                         </div>
                     </div>
                 </div>
@@ -221,9 +221,9 @@
                         <a href="#"><img class="card-img-top" src="{{URL::asset('img/top6.jpg')}}" alt=""></a>
                         <div class="card-body text-center">
                             <h4 class="card-title" style="margin: 10px 0px 10px 0px;">
-                                <a href="#">Поющий бархан</a>
+                                <a href="#">Singing barkhanзрз</a>
                             </h4>
-                            <p class="card-text">Поющий бархан – жемчужина в короне знаменитого казахстанского заповедника «Алтын-Эмель». 150-метровая песчаная дюна одиноко возвышается в пустыне неподалеку речки Или между двумя гребнями Джунгарского Алатау - Кысты-Калкан (Малый Калкан) и Улькен-Калкан (Большой Калкан). Длина бархана около 3 км. Вокруг – только каменистая пустыня, поросшая саксаулом и небольшими кустиками…</p>
+                            <p class="card-text">"Singing barkhan" is located on the right bank of the Ili River between the two ridges of Kysty-Kalkan and Ulken-Kalkan in the territory of the National Natural Park "Altyn-Emel". Surprising phenomenon of nature sands. Sands that in dry and windy weather sound like a high-flying jet plane. The power of sound is such that it spreads over many kilometers in the district.</p>
                         </div>
                     </div>
                 </div>

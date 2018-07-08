@@ -74,7 +74,7 @@
                             <div class="collapse" id="navbarToggleExternalContent">
                                 <div class="bg-dark" style="height: 50px; margin-top: 50px">
                                     <a href="{{url('/accommodations')}}" style="margin: 0px 40px 0px 40px; font-size: 16px;">ACCOMMODATION</a>
-                                    <a href="#" style="margin: 0px 40px 0px 40px; font-size: 16px;">INTERTAIMENT</a>
+                                    <a href="#" style="margin: 0px 40px 0px 40px; font-size: 16px;">ENTERTAINMENT</a>
                                     <a href="{{url('/restaurants')}}" style="margin: 0px 40px 0px 40px; font-size: 16px;">RESTAURANTS</a>
                                 </div>
                             </div>
@@ -101,12 +101,12 @@
                 <div class="row text-center">
                     <div class="col-md-6">
                         <div class="copyright">
-                            <p>@ 2018 - Мы еще не придумали название команды</p>
+                            <p>@ 2018 - UNSTOPPABLE</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="designer">
-                            <p>A Design By <a href="#">Baltabay</a></p>
+                            <p>A Design By <a href="#"></a></p>
                         </div>
                     </div>
                 </div>
