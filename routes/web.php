@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('welcome');
 });
 
@@ -26,4 +26,3 @@ Route::get('/restaurants', 'RestaurantsController@index');
 Route::get('/accommodations', 'AccommodationsController@index');
 
 Auth::routes();
-

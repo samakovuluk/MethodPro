@@ -13,13 +13,8 @@ class CreateAccommodationsTable extends Migration
      */
     public function up()
     {
-        Schema::create('accommodations', function (Blueprint $table) {
+        Schema::create('homestead', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
-            $table->string('average_s');
-            $table->string('description');
-            $table->string('lat');
-            $table->string('lng');
             $table->timestamps();
         });
     }
@@ -31,6 +26,6 @@ class CreateAccommodationsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('accommodations');
+        Schema::dropIfExists('homestead');
     }
 }
